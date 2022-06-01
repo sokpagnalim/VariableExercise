@@ -1,0 +1,14 @@
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.csproj.AssemblyReference.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.AssemblyInfoInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.AssemblyInfo.cs
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.csproj.CoreCompileInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.exe
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.deps.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.runtimeconfig.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.runtimeconfig.dev.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\bin\Debug\netcoreapp3.1\VariableExercise.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\VariableExercise\VariableExercise\obj\Debug\netcoreapp3.1\VariableExercise.genruntimeconfig.cache
